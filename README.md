@@ -1,1 +1,1 @@
-Google hash code 2018 competition solusion 
+Google hash code 2018 competition solution
